@@ -11,5 +11,5 @@ An End-to-End Breast Cancer Regression Model Project using Python, Dockers, Gith
 Create a new environment
 
 ```````
-conda create -p venv python==3.13.5 -y
+conda create -p venv2 python==3.13.5 -y
 ```````
